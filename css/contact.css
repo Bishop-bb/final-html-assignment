@@ -1,0 +1,30 @@
+p{
+    font-size: 35px;
+}
+#bod{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+#address{
+    text-align: center;
+    font-size: 30px;
+}
+
+#allow{
+    font-size: 30px;
+    text-align: justify;
+    border: 30px unset tan;
+    padding-bottom: 40px;
+    color: black;
+    font-style: italic;
+    padding-top: 5px;
+}
+
+
+form{
+    font-size: 25px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+  
+}

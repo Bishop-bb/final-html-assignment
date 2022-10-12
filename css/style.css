@@ -1,0 +1,35 @@
+.first{
+    width: 33%;
+    height: 325px;
+
+}
+
+.second{
+    width: 33%;
+    height: 325px;
+}
+
+.third{
+    width: 33%;
+    height: 325px;
+}
+
+#fourth{
+    text-align: center;
+
+}
+#text{
+    /* background-color: black; */
+    font-size: 25px;
+    color: white;
+    font-style: italic;
+
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    color: white;
+}
+body{
+    background-color: black;
+}
